@@ -33,7 +33,7 @@ Essa aplicação foi criada no laboratório da DIO no Curso de ChatGPT for Deve,
 
 ## Tecnologias :rocket:
 #### Back-end
- - Acesse: [Server](hhttps://github.com/robsonamendonca/dio-chatgpt/tree/main/server)
+[Server](hhttps://github.com/robsonamendonca/dio-chatgpt/tree/main/server)
  - Node
  - Express
  - javascript
